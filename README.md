@@ -2,7 +2,7 @@ Automated tests for
 
 ## Setup
 
-- Install Node, NPM and Yarn if you don't have those yet.
+- Install Node, NPM, Yarn and Allure if you don't have those yet.
 
 - Install playwright framework
 
