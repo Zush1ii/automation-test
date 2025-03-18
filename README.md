@@ -6,7 +6,7 @@ Automated tests for
 
 - Install playwright framework
 
-  `yarn create playwright`
+  `yarn playwright install`
 
 ## Running tests
 
