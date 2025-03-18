@@ -57,5 +57,5 @@ test('Check add, remove the product', async ({ page }) => {
   await dashboardPage.removeProduct('Sauce Labs Onesie')
   const new_updated_number = await commonPage.getNumberFromElement(dashboardLocators.cartBadge)
   //Compare the number of items in the cart after remove the item
-  expect(new_updated_number).toBe(1)
+  expect(new_updated_number).toBe(0)
 })
