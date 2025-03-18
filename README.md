@@ -8,11 +8,11 @@ Automated tests for
 
 ## Run the command, then following the below actions
 `yarn create playwright`
-  ## Do you want to use TypeScript or JavaScript? · JavaScript
-  ## Where to put your end-to-end tests? · e2e   
-  ## Add a GitHub Actions workflow? (y/N) · false
-  ## Install Playwright browsers (can be done manually via 'yarn playwright install')? (Y/n) · false
-  ## playwright.config.js already exists. Override it? (y/N) · false
+  - Do you want to use TypeScript or JavaScript? · JavaScript
+  - Where to put your end-to-end tests? · e2e   
+  - Add a GitHub Actions workflow? (y/N) · false
+  - Install Playwright browsers (can be done manually via 'yarn playwright install')? (Y/n) · false
+  - playwright.config.js already exists. Override it? (y/N) · false
 
 ## Install browser and driver
   `yarn playwright install`
